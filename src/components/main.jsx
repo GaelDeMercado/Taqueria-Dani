@@ -1,0 +1,6 @@
+export * from './Hero.jsx'
+export * from './About.jsx'
+export * from './Footer.jsx'
+export * from './Navbar.jsx'
+export * from './Services.jsx'
+export * from './Prices.jsx'
